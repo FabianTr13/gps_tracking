@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Recoleccion de tracking rutero</string>
+
+
+
+    <string name="request_updates">Iniciar Servicio</string>
+    <string name="remove_updates">Detener Servicio</string>
+
+    <string name="permission_rationale">El permiso de GPS es necesario</string>
+    <string name="permission_denied_explanation">Los permisos son necesarios para funcionar</string>
+
+    <string name="settings">Configuracion</string>
+</resources>
